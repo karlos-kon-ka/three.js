@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f750a3f5.css",
-    "main.js": "/static/js/main.d865a36b.js",
-    "static/js/453.a3c85ee0.chunk.js": "/static/js/453.a3c85ee0.chunk.js",
-    "static/media/darth_vader.3mf": "/static/media/darth_vader.58af111cda73de3cb0a6.3mf",
-    "index.html": "/index.html",
-    "main.f750a3f5.css.map": "/static/css/main.f750a3f5.css.map",
-    "main.d865a36b.js.map": "/static/js/main.d865a36b.js.map",
-    "453.a3c85ee0.chunk.js.map": "/static/js/453.a3c85ee0.chunk.js.map"
+    "main.css": "/three.js/static/css/main.f750a3f5.css",
+    "main.js": "/three.js/static/js/main.5dd39330.js",
+    "static/js/453.a3c85ee0.chunk.js": "/three.js/static/js/453.a3c85ee0.chunk.js",
+    "static/media/darth_vader.3mf": "/three.js/static/media/darth_vader.58af111cda73de3cb0a6.3mf",
+    "index.html": "/three.js/index.html",
+    "main.f750a3f5.css.map": "/three.js/static/css/main.f750a3f5.css.map",
+    "main.5dd39330.js.map": "/three.js/static/js/main.5dd39330.js.map",
+    "453.a3c85ee0.chunk.js.map": "/three.js/static/js/453.a3c85ee0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f750a3f5.css",
-    "static/js/main.d865a36b.js"
+    "static/js/main.5dd39330.js"
   ]
 }
